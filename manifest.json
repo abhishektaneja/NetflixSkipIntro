@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Netflix auto skip",
+  "name": "Netflix auto skip intro and recap",
   "version": "1.0",
   "description": "Automatically clicks the Skip Intro, Skip Recap buttons on Netflix.",
   "permissions": [
